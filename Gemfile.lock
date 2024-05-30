@@ -120,5 +120,4 @@ DEPENDENCIES
   octopress-minify-html
   tzinfo-data
 
-BUNDLED WITH
-   2.0.0
+  1.71.2
