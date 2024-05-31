@@ -1,13 +1,14 @@
-name: NiceTV
-description: 一款网络电视播放器
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+name: NiceTV 网络直播电视
+description: 一款网络直播电视、音视频播放器
+full_description: '<br>
+<br>更多功能:
+<br>- 无限制添加订阅源
+<br>- 支持m3u/txt格式订阅源
+<br>- 支持画中画、倍速播放
+<br>- 支持硬件解码
+android: https://play.google.com/store/apps/details?id=com.goodiptv.app
+iOS: https://apps.apple.com/app/nicetv-iptv-video-player/id6473073296
+
 screenshots:
   - 1.png
   - 2.png
