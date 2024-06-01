@@ -15,8 +15,8 @@ screenshots:
   - 3.png
   - 4.png
 producthunt: https://appstoreconnect.apple.com/apps/1207220686/appstore
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+# companies:
+#   - url: https://telegra.ph/Replace-this-link-07-23
+#     image: androidpolice.png
+#   - url: https://telegra.ph/Replace-this-link-07-23
+#     image: producthunt.png
